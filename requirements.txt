@@ -1,7 +1,6 @@
 requests
 cloudscraper
 bs4
-pyhon-dotenv
 pyrogram
 tgcrypto
 lxml
