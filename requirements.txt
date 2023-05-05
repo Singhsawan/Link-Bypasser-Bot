@@ -1,6 +1,7 @@
 requests
 cloudscraper
 bs4
+dotenv
 pyrogram
 tgcrypto
 lxml
